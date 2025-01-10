@@ -146,8 +146,7 @@
 	Colonization began in 1598, with Santa Fe (1610) becoming a key settlement. Spanish efforts focused on missionary work and trade, though Native American resistance, such as the Pueblo Revolt (1680), posed challenges.
 	- **California**:
 	Colonized in the late 1700s, Spain built missions along the Pacific coast to convert Native Americans and assert territorial control. Settlements like San Diego and Los Angeles originated during this time.
-
-- **Dutch Influence in North America:**
+	- **Dutch Influence in North America:**
 	The Dutch established the colony of New Netherland in the early 17th century, focused on fur trade and centered around present-day New York, New Jersey, and Pennsylvania. Its main port, New Amsterdam (now New York City), became a key hub for trade. The Dutch lost control of the colony to the British after the Second Anglo-Dutch War (1664) and finally in the Third Anglo-Dutch War (1674). Despite this, Dutch cultural and economic practices influenced the region's development.
 
 - **French and Indian War (1754–1763):**
@@ -165,65 +164,243 @@
   - **Outcome**: Shifted global power, solidified Britain's dominance, and left France weakened. This war also left Britain with significant debts, leading to increased taxation on its North American colonies, which caused dissatisfaction and ultimately the American Revolution.
 
 6. Road to Independence (1763–1776)
-- Effects of the French and Indian War
-- Protests against British taxes (Stamp Act, Tea Act)
-- Boston Massacre and Boston Tea Party
-- First Continental Congress meeting
+	- **Effects of the French and Indian War (1754–1763):**
+		- **Debt and Taxation**: The war left Britain with significant debt. To recover, Britain imposed taxes on the colonies, leading to resentment.
+		- **Proclamation of 1763**: Restricted colonial expansion westward to prevent conflicts with Native Americans, angering settlers who wanted to expand.
+		- **Increased British Presence**: Britain stationed troops in the colonies, viewed as an unnecessary and oppressive measure.
+	- **Protests against British taxes:**
+		- **Stamp Act (1765):**
+			- Required colonists to purchase special stamped paper for legal documents, newspapers, and other materials.
+			- Colonists protested with the slogan "No taxation without representation," emphasizing their lack of voice in British Parliament.
+			- Widespread boycotts and the formation of groups like the Sons of Liberty pressured Britain to repeal the act in 1766.
+		- **Tea Act (1773):**
+			- Granted the British East India Company a monopoly on tea sales, undercutting local merchants.
+			- Colonists viewed it as another unfair tax and an attempt to force them into compliance.
+	- **Boston Massacre:**
+		- Tensions erupted on March 5, 1770, when British soldiers fired on a mob of colonists harassing them with insults and projectiles.
+		- Five colonists were killed often regarded as the first casualty of the Revolution.
+	- **Boston Tea Party (1773):**
+		- On December 16, 1773, members of the Sons of Liberty, dressed as Mohawk Indians, boarded British ships in Boston Harbor and threw 342 chests of tea into the water.
+		- This bold protest against the Tea Act became a symbol of colonial resistance. In response, Britain introduced the Intolerable Acts, which punished the colonies and increased tensions.
+	- **First Continental Congress meeting:**
+		- Delegates from 12 of the 13 colonies (Georgia did not participate) gathered in Philadelphia to discuss their complaints about British policies.
+		- **Key Actions:**
+			- Issued a declaration of rights, asserting the colonies' rights to self-governance and fair treatment.
+			- Decided to boycott British goods to pressure Britain to change its policies.
+			- Agreed to meet again if Britain did not respond to their demands.
+		- This meeting helped unify the colonies and laid the foundation for their eventual push for independence.
 
 7. American Revolution (1775–1783)
+	- **Sides:**
+		- American Colonies: Represented by the Continental Army, led by George Washington, and supported by allies like France and Spain.
+		- Great Britain: Led by King George III, supported by loyalists in the colonies and Native American allies.
+	- **Causes:**
+		- Taxation Without Representation: Colonists resented British taxes (e.g., Stamp Act, Tea Act) without representation in Parliament.
+		- British Control: Increased British interference in colonial governance, including the Proclamation of 1763 and the Intolerable Acts.
+		- Desire for Independence: The colonies wanted to self-govern and secure economic freedom.
+	- **Start of the War:**
+		- **Battles of Lexington and Concord (April 19, 1775):**
+			- British soldiers marched to take weapons from the colonists in Concord.
+			- The first shots of the war were fired, marking the beginning of the conflict.
+	- **Course of the War:**
+		- **Early Years (1775–1777):**
+			- Colonists faced early defeats but won significant victories like the capture of Fort Ticonderoga and the Battle of Saratoga.
+			- France joined the war as an ally after Saratoga, providing crucial military and financial support.
+		- **Middle Years (1777–1781):**
+			- Harsh conditions during the winter at Valley Forge strengthened the Continental Army with improved training.
+			- The British shifted focus to the southern colonies, hoping for loyalist support, but faced resistance.
+		- **Final Phase (1781):**
+			- The Battle of Yorktown marked the last major conflict. Washington, with French forces, trapped the British, forcing General Cornwallis to surrender.
+	- **Event Ending the War:**
+		- **Treaty of Paris (1783):**
+			- Officially ended the war.
+			- Britain recognized the United States as an independent nation.
+			- Defined U.S. borders from the Atlantic to the Mississippi River.
+	- **Outcomes and Impact:**
+		- **For the United States:**
+			- Achieved independence, forming a new democratic nation.
+			- Established a foundation for its Constitution and political system.
+		- **For Britain:**
+			- Lost its colonies but retained control over Canada and other territories.
+			- Focused on rebuilding its economy and global influence.
+		- **Global Influence:**
+			Inspired other independence movements around the world, such as the French Revolution.
 
-   - Battles of Lexington and Concord
-   - Signing of the Declaration of Independence
-   - Key battles and events during the war
-   - Treaty that ended the war
 
 8. Formation of a New Nation (1783–1815)
 
-   - Articles of Confederation
-   - Meeting to create the Constitution
-   - U.S. Constitution approval
-   - First 10 amendments (Bill of Rights)
-   - Washington’s presidency
-   - War of 1812 with Britain
+	- **Articles of Confederation:**
+		- The first governing document of the United States, written during the Revolutionary War.
+		- It gave most powers to the states, leaving the national government weak.
+		- Problems included the inability to collect taxes or regulate trade, leading to economic instability and calls for a stronger government.
+	- **Meeting to create the Constitution:**
+		- Delegates from 12 states (excluding Rhode Island) met in Philadelphia to address the weaknesses of the Articles of Confederation.
+		- The meeting, known as the Constitutional Convention, resulted in a new Constitution that created a stronger federal government with three branches: legislative, executive, and judicial.
+	- **U.S. Constitution approval:**
+		- The Constitution was approved by nine of the 13 states, making it the new framework for the U.S. government.
+		- It established a system of checks and balances to prevent any one branch from becoming too powerful.
+	- **First 10 Amendments (Bill of Rights, 1791):**
+		- The Bill of Rights was added to the Constitution to protect individual freedoms and prevent government overreach. Each amendment addresses a specific right or limitation on government power:
+			1. Freedom of Speech, Religion, and the Press: Protects the right to speak freely, practice any religion, and publish opinions without government interference.
+			2. Right to Bear Arms: Ensures citizens can own and use weapons for self-defense.
+			3. Quartering of Soldiers: Prevents the government from forcing citizens to house soldiers during peacetime.
+			4. Protection from Unreasonable Searches and Seizures: Requires a warrant or probable cause for searches and confiscation of property.
+			5. Rights in Criminal Cases: Includes protection against self-incrimination, double jeopardy, and guarantees due process of law.
+			6. Right to a Fair Trial: Ensures a speedy and public trial by an impartial jury, and the right to legal counsel.
+			7. Right to a Jury Trial in Civil Cases: Guarantees a jury trial for civil cases involving significant monetary claims.
+			8. Protection from Cruel and Unusual Punishment: Prohibits excessive bail, fines, and inhumane punishments.
+			9. Rights Retained by the People: Declares that the rights listed in the Constitution are not the only rights people have.
+			10. Powers Reserved to the States and People: Limits federal power, reserving all powers not given to the federal government for the states or the people.
+	- **George Washington's Presidency (1789–1797):**
+		- George Washington became the first U.S. president under the new Constitution.
+		- Key achievements:
+			- Established the Cabinet as advisors to the president.
+			- Signed the Jay Treaty to ease tensions with Britain.
+			- Warned against political parties and foreign alliances in his farewell address.
+	- **The John Adams Presidency (1797–1801)**
+		- **Overview:** John Adams became the second U.S. president in 1797, leading a divided nation. Federalists, led by Adams and Hamilton, faced opposition from Jefferson's Republicans.
+		- **Foreign Affairs:**
+			- **XYZ Affair:** French anger over the Jay Treaty led to the capture of U.S. trade ships. Adams sent diplomats to negotiate, but France demanded bribes and loans, sparking the Anti-French movement and the Quasi-War (undeclared naval conflict).
+			- **U.S. Navy:** Adams established the Navy to counter French threats, funded by increased taxes and debt.
+		- **Domestic Issues:**
+			- **Alien and Sedition Acts:** Restricted free speech against the government and extended residency requirements for citizenship, targeting pro-French voices.
+			- **Republican Opposition:** Jeffersonian Republicans opposed these acts, arguing they violated individual freedoms. The **Kentucky and Virginia Resolutions** introduced the idea of nullification, claiming states could ignore unfair federal laws.
+		- **Legacy:** Adams avoided full-scale war with France but faced criticism for his policies. By 1801, he lost public support and became the first one-term president, defeated by Thomas Jefferson.
+	- **The Jefferson Administration (1801–1809)**
+		- **Overview:** Thomas Jefferson, leader of the Democratic-Republican Party, became the third U.S. president in 1801. He was the first to live in the White House and focused on reducing government size and expanding U.S. territory.
+		- **Domestic Policies:**
+			- Cut military spending and reduced the size of the army and navy.
+			- Repealed the Alien and Sedition Acts and nullified the Naturalization Act.
+			- Banned the international slave trade in 1807, using constitutional authority.
+		- **Louisiana Purchase (1803):**
+			- Purchased vast territory from France, doubling the size of the U.S.
+			- Commissioned the Lewis and Clark Expedition to explore the land, setting the stage for westward expansion.
+		- **Judicial Developments:**
+			- **Marbury v. Madison (1803):** Established judicial review, allowing the Supreme Court to overturn unconstitutional laws, strengthening the judiciary's role.
+		- **Foreign Affairs:**
+			- Supported France during its revolution and took a laissez-faire approach to domestic governance.
+			- **Embargo Act of 1807:** Imposed a ban on foreign trade to counter British and French interference but harmed the U.S. economy instead.
+		- **Legacy:** Jefferson's presidency expanded U.S. territory and established key legal precedents, but his trade policies caused economic difficulties and set the stage for future conflict with Britain.
+	- **War of 1812 with Britain (1812–1815):**
+		- **Sides:**
+			- United States: Led by President James Madison, supported by militias and privateers.
+			- Great Britain: Supported by Native American allies and experienced naval (sea) and land forces.
+		- **Causes:**
+			- Trade Restrictions: Britain's naval blockade during the Napoleonic Wars hurt U.S. trade.
+			- Impressment of Sailors: British forces forcibly recruited American sailors into the Royal Navy.
+			- Territorial Expansion: The U.S. sought to expand into British Canada and Native American lands.
+			- Native American Resistance: British support for Native tribes resisting U.S. westward expansion fueled tensions.
+		- **Start of the War:**
+			- On June 18, 1812, the U.S. declared war on Britain, citing economic and territorial grievances.
+		- **Course of the War:**
+			- **Early Stages (1812–1813):**
+				- The U.S. attempted to invade Canada but failed due to poor planning and resistance.
+				- The British navy blockaded U.S. ports, crippling trade.
+			- **Key Events:**
+				- Battle of Lake Erie (1813): A major U.S. naval victory, securing control of the Great Lakes.
+				- Burning of Washington, D.C. (1814): British troops captured and burned government buildings, including the White House and Capitol.
+				- Battle of Baltimore (1814): The U.S. successfully defended Baltimore; this battle inspired the writing of the U.S. national anthem, "The Star-Spangled Banner."
+				- Battle of New Orleans (1815): Fought after the peace treaty was signed due to slow communication. U.S. forces, led by Andrew Jackson, achieved a decisive victory.
+		- **Event Ending the War:**
+			- **Treaty of Ghent (December 24, 1814):**
+				- Restored pre-war borders between the U.S. and British territories.
+				- Did not address trade or impressment, but effectively ended hostilities (war clashes).
+		- **Outcomes and Impact:**
+			- **For the United States:**
+				- Boosted national pride and unity, leading to the so-called "Era of Good Feelings."
+				- Secured independence and respect from foreign nations.
+				- Marked the decline of Native American resistance in the Northwest.
+			- **For Britain:**
+				- Maintained control over Canada but shifted focus to European conflicts.
+			- **Global Influence:**
+				- Proved that the United States could defend itself against a global power, strengthening its position as a sovereign nation.
 
-9. Expansion and Reform (1815–1860)
+9. **Antebellum Period (1814–1860)**
+	- **Overview:** The Antebellum Period, meaning "before the war," spans from the end of the War of 1812 to the Civil War. While marked by peace, prosperity, and expansion, it was also a time of growing divisions that ultimately led to war.
+	- **The Era of Good Feelings (1817–1825):**
+		- President James Monroe's term was characterized by national pride after the War of 1812 and reduced political hostility.
+		- The Federalist Party collapsed, marking the rise of sectionalism, where political concerns became tied to specific regions.
+		- The Panic of 1819 caused America's first economic crisis, leading to opposition to central banks.
+		- **McCulloch v. Maryland (1819):** A Supreme Court case that strengthened federal authority and validated the role of central banks.
+	- **Missouri Compromise (1820):**
+		- Missouri requested admission as a slave state, bringing slavery to the forefront of politics.
+		- The Compromise allowed Missouri as a slave state and Maine as a free state while extending the Mason-Dixon Line westward as a division between slave and free states.
+	- **The Second Great Awakening:**
+		- A religious revival that shaped American culture, fostering literature and music distinct from Europe.
+		- Inspired social movements, including:
+			- **Public Schools Movement:** Expanded access to education.
+			- **Abolitionist Movement:** Advocated for ending slavery, increasing sectional tensions.
+	- **Legacy:** This period laid the groundwork for cultural growth and reform but also deepened divisions over slavery, setting the stage for the Civil War.
 
-   - Time of peace and national pride
-   - Westward movement (Manifest Destiny)
-   - Indian Removal Act and Trail of Tears
-   - Growth of factories and technology
-   - Movements to improve society (e.g., ending slavery, women’s rights)
-
-10. Civil War Era (1860–1865)
-
-    - Lincoln’s election as president
-    - Southern states leaving the Union
-    - Main battles and events of the Civil War
-    - Freedom for slaves (Emancipation Proclamation)
+10. **Civil War (1861–1865)**
+	- **Sides:**
+		- **Union (North):** Led by President Abraham Lincoln, focused on preserving the United States and later abolishing slavery.
+		- **Confederacy (South):** Composed of 11 seceding states, led by President Jefferson Davis, fighting for independence and the continuation of slavery.
+	- **Causes:**
+		- **Slavery:** The central issue dividing North and South, particularly as new territories sought statehood.
+		- **States' Rights vs. Federal Authority:** The South argued for states' sovereignty, particularly regarding slavery.
+		- **Economic Differences:** Industrial North vs. agricultural South reliant on slave labor.
+		- **Election of 1860:** Lincoln's anti-slavery platform led Southern states to secede.
+	- **Start of the War:**
+		- **Fort Sumter (April 12, 1861):** Confederate forces attacked the federal fort in South Carolina, officially starting the Civil War.
+	- **Course of the War:**
+		- **Early Years (1861–1863):** The South won key battles early (e.g., Bull Run), but the North's blockade and industrial strength began to take a toll.
+		- **Turning Point (1863):**
+			- **Battle of Gettysburg:** A major Union victory, halting the Confederacy's advance into Northern territory.
+			- **Emancipation Proclamation:** Lincoln freed slaves in Confederate states, reframing the war as a fight for freedom.
+		- **Final Years (1864–1865):**
+			- **Sherman's March to the Sea:** Devastated Southern infrastructure and morale.
+			- **Appomattox Court House (April 9, 1865):** Confederate General Robert E. Lee surrendered to Union General Ulysses S. Grant, effectively ending the war.
+	- **Event Ending the War:**
+		- Confederate surrender at **Appomattox Court House** marked the conclusion of major hostilities.
+	- **Outcomes and Impact:**
+		- **Union Victory:** Preserved the United States and abolished slavery through the 13th Amendment.
+		- **Reconstruction Era:** Began efforts to rebuild the South and integrate freed slaves into society.
+		- **Legacy:** The war remains the deadliest conflict in U.S. history and a defining moment for civil rights and national identity.
     - Lincoln’s assassination
 
-11. Reconstruction (1865–1877)
+11. **Reconstruction (1865–1877)**
+	- **Overview:** Reconstruction was the period after the Civil War focused on rebuilding the South and integrating freed slaves into American society.
+	- **Plans to Rebuild the South:**
+		- **Presidential Reconstruction:** Led by President Andrew Johnson, it aimed for a forgiving and quick approach to reintegrate Southern states.
+		- **Radical Reconstruction:** Controlled by Congress, it emphasized civil rights for freedmen and stricter terms for Southern reentry.
+	- **Amendments Giving Rights to Freed Slaves:**
+		- **13th Amendment (1865):** Abolished slavery in the United States.
+		- **14th Amendment (1868):** Granted citizenship to all persons born in the U.S. and provided equal protection under the law.
+		- **15th Amendment (1870):** Gave African American men the right to vote.
+	- **New Laws Limiting African American Rights:**
+		- Southern states passed **Black Codes** to restrict freedoms and enforce racial segregation.
+		- Groups like the **Ku Klux Klan** used violence and intimidation to suppress African American political participation.
+	- **End of Reconstruction:**
+		- Ended with the **Compromise of 1877**, where federal troops were withdrawn from the South in exchange for resolving the disputed 1876 presidential election.
+	- **Legacy:**
+		- Reconstruction brought significant legal progress but left many promises unfulfilled as racial discrimination persisted.
+		- Set the stage for future civil rights movements.
 
-- Plans to rebuild the South
-- Amendments giving rights to freed slaves (13th, 14th, 15th)
-- New laws limiting African American rights
-- End of Reconstruction with a political deal
+12. **Gilded Age and Industrialization (1877–1900)**
+	- **Overview:** A period of rapid economic growth and industrial expansion in the United States, marked by social inequality and political corruption.
+	- **Growth of Cities and Industries:**
+		- Urbanization increased as people moved to cities for factory jobs.
+		- Industries like steel, railroads, and oil grew rapidly, driven by figures like Andrew Carnegie and John D. Rockefeller.
+	- **Immigrants Moving to America:**
+		- Millions of immigrants, mainly from Southern and Eastern Europe, arrived seeking opportunities.
+		- Many worked in factories under harsh conditions for low wages, fueling economic growth.
+	- **Workers Organizing Strikes:**
+		- Poor working conditions and low wages led to labor strikes, such as the **Pullman Strike (1894)** and the **Homestead Strike (1892)**.
+		- Unions like the **Knights of Labor** and the **American Federation of Labor (AFL)** emerged to fight for workers' rights.
+	- **Political Corruption and Calls for Reform:**
+		- Political machines like New York's **Tammany Hall** controlled local politics through bribery and patronage.
+		- Reform movements, such as the **Progressive Era**, began to address corruption and improve living and working conditions.
+	- **Legacy:** The Gilded Age transformed the U.S. into an industrial power but highlighted deep social and economic divides, sparking future reforms.
 
-11. Gilded Age and Industrialization (1877–1900)
-
-    - Growth of cities and industries
-    - Immigrants moving to America
-    - Workers organizing strikes
-    - Political corruption and calls for reform
-
-12. Progressive Era (1900–1917)
+13. Progressive Era (1900–1917)
 
     - Changes to fix problems in society
     - Breaking up big companies
     - Women fighting for voting rights
     - Protecting nature and resources
 
-13. World War I and the Roaring Twenties (1914–1929)
+14. World War I and the Roaring Twenties (1914–1929)
 
     - U.S. joining World War I
     - Peace treaty after the war
@@ -231,13 +408,13 @@
     - Harlem Renaissance (Black cultural movement)
     - Prohibition (alcohol ban)
 
-14. Great Depression and New Deal (1929–1939)
+15. Great Depression and New Deal (1929–1939)
 
     - Stock market crash and economic struggles
     - Farms hit by the Dust Bowl
     - Roosevelt’s programs to help the economy
 
-15. World War II (1939–1945)
+16. World War II (1939–1945)
 
     - U.S. staying neutral at first
     - Pearl Harbor attack bringing the U.S. into the war
@@ -245,7 +422,7 @@
     - Holocaust and dropping atomic bombs
     - Founding of the United Nations
 
-16. Cold War Era (1945–1991)
+17. Cold War Era (1945–1991)
 
     - U.S. trying to stop communism (Truman Doctrine)
     - Korean War
@@ -255,7 +432,7 @@
     - Space Race
     - Soviet Union collapse
 
-17. Modern America (1991–Present)
+18. Modern America (1991–Present)
 
     - Advances in technology and the Internet
     - September 11 attacks and wars in the Middle East
@@ -263,3 +440,20 @@
     - Social and political movements
     - Recent presidents and major events
 
+
+
+Additionally:
+
+- US health system in comperison with UK and your country
+- US educational system 
+- map of conteporary states and their capitals
+
+
+Для любой войны мне нужно:
+
+1) Стороны
+2) Причины
+3) Точка начала войны
+4) Краткое описание хода войны, кто что терял/получал, как воевали стороны
+5) событие, которое закончило войну
+6) итоги войны и их влеяение на стороны.
