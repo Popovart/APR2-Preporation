@@ -393,52 +393,136 @@
 		- Reform movements, such as the **Progressive Era**, began to address corruption and improve living and working conditions.
 	- **Legacy:** The Gilded Age transformed the U.S. into an industrial power but highlighted deep social and economic divides, sparking future reforms.
 
-13. Progressive Era (1900–1917)
+13. **Progressive Era (1900–1917)**
+	- **Overview:** A period focused on addressing the social, economic, and political problems caused by rapid industrialization and urbanization during the Gilded Age.
+	- **Changes to Fix Problems in Society:**
+		- Reforms aimed to improve education, healthcare, and financial systems.
+		- Labor laws were introduced to protect workers, including limits on child labor and better workplace safety standards.
+	- **Breaking Up Big Companies:**
+		- Antitrust laws, such as the **Sherman Antitrust Act**, were used to reduce the power of monopolies like Standard Oil.
+		- Reforms sought to limit the influence of wealthy industrialists on politics and the economy.
+	- **Women Fighting for Voting Rights:**
+		- The **Women's Suffrage Movement** gained momentum, leading to the eventual passage of the **19th Amendment** in 1920, granting women the right to vote.
+	- **Protecting Nature and Resources:**
+		- Conservation efforts, led by figures like President Theodore Roosevelt, resulted in the creation of national parks and protected areas.
+		- Policies were introduced to manage natural resources sustainably.
+	- **Legacy:** The Progressive Era laid the foundation for modern social and political reforms, addressing inequality and promoting fairness in American society.
 
-    - Changes to fix problems in society
-    - Breaking up big companies
-    - Women fighting for voting rights
-    - Protecting nature and resources
+14. **World War I (1914–1918)**
+	- **Overview:** The United States joined World War I in 1917, marking its first major involvement in a global conflict and signaling its rise as a world power.
+	- **Causes of U.S. Involvement:**
+		- **Unrestricted Submarine Warfare:** Germany's attacks on U.S. ships, including the sinking of the Lusitania, angered Americans.
+		- **Zimmermann Telegram:** Germany's proposal to ally with Mexico against the U.S. further provoked intervention.
+	- **U.S. Role in the War:**
+		- Initially supported the Allies with supplies and funding while remaining neutral.
+		- Declared war on Germany in 1917 and mobilized over 4 million troops.
+		- U.S. entry boosted Allied morale and resources, contributing to the defeat of Germany.
+	- **Domestic Impact:**
+		- President Woodrow Wilson expanded presidential powers to mobilize the economy, leading to industrial growth and wartime prosperity.
+		- Women and minorities gained new roles in the workforce due to labor shortages.
+	- **Outcomes:**
+		- Approximately 118,000 American soldiers died during the war.
+		- U.S. participation shifted its role on the world stage, making it a key player in European affairs.
+		- The war ended with the **Treaty of Versailles (1919)**, though the U.S. Senate rejected joining the League of Nations, favoring isolationism.
 
-14. World War I and the Roaring Twenties (1914–1929)
+15. **Roaring Twenties (1920–1929)**
+	- **Overview:** A decade of economic prosperity, cultural change, and social liberation in the United States following World War I.
+	- **Economic Growth:**
+		- Rapid industrialization and innovations, such as mass production techniques introduced by **Henry Ford**, boosted the economy.
+		- The stock market flourished, leading to widespread investment and speculation.
+	- **Cultural Changes:**
+		- **Harlem Renaissance:** A cultural movement celebrating African American art, literature, and music, with figures like **Langston Hughes** and **Louis Armstrong**.
+		- **Jazz Age:** Jazz music became popular nationwide, symbolizing freedom and modernity.
+		- Film and radio transformed entertainment, with Hollywood becoming the center of the movie industry.
+	- **Social Liberation:**
+		- Women gained the right to vote with the **19th Amendment (1920)** and embraced new roles, with "flappers" symbolizing independence and modern lifestyles.
+		- A rise in urbanization led to changing social norms and greater diversity.
+	- **Prohibition (1920–1933):**
+		- The **18th Amendment** banned the sale, production, and distribution of alcohol.
+		- Gave rise to illegal speakeasies and organized crime, with figures like **Al Capone** becoming infamous.
+	- **Legacy:** The Roaring Twenties represented a time of dynamic change and optimism but also sowed the seeds of economic instability, leading to the Great Depression.
 
-    - U.S. joining World War I
-    - Peace treaty after the war
-    - Economic boom and cultural changes
-    - Harlem Renaissance (Black cultural movement)
-    - Prohibition (alcohol ban)
+16. **Great Depression and New Deal (1929–1939)**
+	- **Overview:** The Great Depression was the most severe economic downturn in U.S. history, followed by the New Deal, a series of programs aimed at recovery.
+	- **Stock Market Crash and Economic Struggles:**
+		- The **Stock Market Crash of 1929** wiped out billions in wealth, leading to widespread unemployment and bank failures.
+		- Industrial production plummeted, and millions of Americans faced poverty.
+	- **Farms Hit by the Dust Bowl:**
+		- Severe droughts and poor farming practices in the 1930s created the **Dust Bowl**, devastating agricultural regions in the Great Plains.
+		- Many farmers lost their land and migrated west, especially to California, in search of work.
+	- **Roosevelt's New Deal Programs:**
+		- President **Franklin D. Roosevelt (FDR)** introduced the New Deal to provide relief, recovery, and reform.
+		- Key programs included:
+			- **Civilian Conservation Corps (CCC):** Created jobs in conservation projects.
+			- **Works Progress Administration (WPA):** Built infrastructure and provided jobs.
+			- **Social Security Act:** Established pensions for retirees and aid for the unemployed.
+	- **Legacy:** The New Deal helped stabilize the economy and introduced reforms that reshaped the U.S. government's role, but the Depression's full recovery came only with World War II.
 
-15. Great Depression and New Deal (1929–1939)
+17. **World War II (1939–1945)**
+	- **Sides:**
+		- **Allies:** United States, Britain, Soviet Union, China, and others. Key leaders: Franklin D. Roosevelt (later Harry S. Truman), Winston Churchill, and Joseph Stalin.
+		- **Axis Powers:** Germany, Italy, Japan. Key leaders: Adolf Hitler, Benito Mussolini, and Emperor Hirohito.
+	- **Causes:**
+		- **Treaty of Versailles:** Harsh terms on Germany after World War I led to economic hardship and resentment.
+		- **Expansionism:** Germany, Italy, and Japan sought to expand their territories aggressively.
+		- **Appeasement:** European powers initially failed to stop Axis aggression, encouraging further expansion.
+		- **Pearl Harbor (1941):** The Japanese attack on the U.S. naval base brought the United States into the war.
+	- **Start of the War:**
+		- September 1, 1939: Germany invaded Poland, prompting Britain and France to declare war on Germany.
+		- The U.S. joined on December 8, 1941, after the Pearl Harbor attack.
+	- **Course of the War:**
+		- **European Theater:**
+			- Germany quickly conquered much of Europe, including France, but failed to invade Britain.
+			- Soviet Union turned the tide after the **Battle of Stalingrad (1943)**.
+			- **D-Day (June 6, 1944):** Allied forces launched a massive invasion in Normandy, liberating France and advancing toward Germany.
+		- **Pacific Theater:**
+			- Japan captured key territories across Asia and the Pacific.
+			- U.S. adopted "island-hopping," winning major battles like **Midway (1942)** and **Iwo Jima (1945)**.
+			- The war ended with the use of atomic bombs on Hiroshima and Nagasaki.
+	- **Event Ending the War:**
+		- **Germany:** Surrendered on May 8, 1945 (V-E Day) after Berlin was captured by the Allies.
+		- **Japan:** Surrendered on August 15, 1945 (V-J Day) following the atomic bombings and Soviet entry into the war.
+	- **Outcomes and Impact:**
+		- **For the Allies:** Victory established the U.S. and Soviet Union as global superpowers, leading to the Cold War.
+		- **For the Axis:** Germany and Japan were defeated; both nations were occupied and rebuilt under Allied supervision.
+		- **Global Impact:** Creation of the **United Nations**, division of Europe, and a shift in global power dynamics.
 
-    - Stock market crash and economic struggles
-    - Farms hit by the Dust Bowl
-    - Roosevelt’s programs to help the economy
+18. **Civil Rights Movement (1948–1965)**
+	- **Overview:** A struggle to end racial discrimination and achieve equality for African Americans, focusing on dismantling segregation and protecting voting rights.
+	- **Key Events:**
+		- **Desegregation of the Military (1948):** President Truman ordered integration of the armed forces.
+		- **Brown v. Board of Education (1954):** Supreme Court decision declared school segregation unconstitutional.
+		- **Montgomery Bus Boycott (1955–1956):** A successful protest against segregated public transportation, sparked by Rosa Parks.
+		- **March on Washington (1963):** Highlighted by Martin Luther King Jr.'s "I Have a Dream" speech, advocating for jobs and freedom.
+		- **Civil Rights Act (1964):** Ended segregation in public places and banned employment discrimination.
+		- **Voting Rights Act (1965):** Eliminated barriers like literacy tests, ensuring African Americans could vote.
+	- **Legacy:** The movement led to landmark legislation, dismantling institutional racism and paving the way for future equality efforts.
 
-16. World War II (1939–1945)
+19. **Cold War Era (1945–1991)**
+	- **Overview:** A period of political and ideological rivalry between the United States and the Soviet Union, marked by efforts to contain communism and avoid direct conflict.
+	- **Key Events:**
+		- **Truman Doctrine (1947):** U.S. policy to support countries resisting communism, setting the stage for containment.
+		- **Korean War (1950–1953):** A conflict between communist North Korea (backed by the Soviet Union and China) and South Korea (supported by the U.S. and UN), ending in a stalemate.
+		- **McCarthyism (1950s):** Fear of communism led to widespread accusations and investigations of supposed communist sympathizers in America.
+		- **Civil Rights Movement:** Paralleled Cold War tensions, with the U.S. pressured to address racial inequality to maintain global credibility.
+		- **Vietnam War (1955–1975):** A long, costly conflict in which the U.S. fought to prevent communist North Vietnam from taking over South Vietnam, ultimately ending in a U.S. withdrawal and communist victory.
+		- **Space Race (1957–1969):** A technological and ideological competition, highlighted by the Soviet launch of **Sputnik** and the U.S. landing on the moon in 1969.
+		- **Collapse of the Soviet Union (1991):** Economic struggles, internal dissent, and reforms like **Perestroika** and **Glasnost** led to the dissolution of the USSR, ending the Cold War.
+	- **Legacy:** The Cold War reshaped global politics, expanded U.S. influence, and left a lasting impact on technology, culture, and military strategies.
 
-    - U.S. staying neutral at first
-    - Pearl Harbor attack bringing the U.S. into the war
-    - Key battles and efforts at home
-    - Holocaust and dropping atomic bombs
-    - Founding of the United Nations
 
-17. Cold War Era (1945–1991)
-
-    - U.S. trying to stop communism (Truman Doctrine)
-    - Korean War
-    - Fear of communists in America (McCarthyism)
-    - Fight for civil rights
-    - Vietnam War
-    - Space Race
-    - Soviet Union collapse
-
-18. Modern America (1991–Present)
-
-    - Advances in technology and the Internet
-    - September 11 attacks and wars in the Middle East
-    - Changes in the economy and financial crises
-    - Social and political movements
-    - Recent presidents and major events
+ADDITIONALLY:
+20. **U.S. Health System:**
+	- The U.S. healthcare system is largely private, with government programs like **Medicare** (for seniors) and **Medicaid** (for low-income individuals).
+	- The Affordable Care Act (2010) expanded access to health insurance but sparked debates over healthcare costs and universal coverage.
+21. **U.S. Educational System:**
+	- Education is primarily managed at the state level, leading to variations in quality and resources.
+	- Public schools dominate, but private and charter schools offer alternatives.
+	- College education is highly regarded but often criticized for high tuition costs and student debt.2
+22. **U.S. Punishment System:**
+	- The U.S. has one of the highest incarceration rates globally, with debates over prison reform and racial disparities.
+	- Punishments include fines, probation, and imprisonment, with the death penalty legal in some states.
+	- Efforts like rehabilitation programs and sentencing reforms aim to address systemic issues.
 
 
 
