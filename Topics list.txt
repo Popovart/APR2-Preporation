@@ -1,169 +1,159 @@
-1. Pre-Columbian Era (Before 1492)
+1. **Pre-Columbian Era (Before 1492)**
 
    Time before European explorers arrived in North America. During this period, the land was inhabited by Indigenous peoples who developed diverse societies, traditions, and ways of life adapted to their environment. Major tribes:
-
    - **Iroquois (political alliance)**: Lived in the Northeastern Woodlands, formed alliance (known as Iroquois Confederacy, including Mohawk, Oneida, Onondaga, Cayuga, and Seneca tribes) that influenced early democratic ideas.
    - **Cherokee**: Inhabited the Southeastern U.S., skilled in agriculture and known for their sophisticated social structure and written language.
    - **Sioux**: Lived on the Great Plains, relied on buffalo for food, clothing, and tools, and were known for their nomadic lifestyle.
    - **Pueblo**: Resided in the Southwest, built homes in cliffs and used advanced irrigation techniques for farming.
    - **Apache**: Also in the Southwest, known for their warrior culture and adaptability to desert life.
 
-2. Age of Exploration and Early Colonization (1492–1607)
+2. **Age of Exploration and Early Colonization (1492–1607)**
 
-   - Columbus’s voyages: Columbus’s first voyage (1492) with the Nina, Pinta, and Santa Maria led to the discovery of the San Salvador  (now Bahamas) and exploration of Cuba and Haiti. Later voyages (1493–1504) focused on exploring and colonizing new territories, despite tensions with native peoples and European settlers.
+   - Columbus’s voyages: Columbus’s first voyage (1492) with the Nina, Pinta, and Santa Maria led to the discovery of the San Salvador (now Bahamas) and exploration of Cuba and Haiti. Later voyages (1493–1504) focused on exploring and colonizing new territories, despite tensions with native peoples and European settlers.
    - Exploration by Spain, France, and England: Spain focused on Central and South America, establishing vast empires and extracting resources. France explored the northern parts of North America, focusing on fur trade and alliances with Native Americans. England began exploring North America's eastern coast, laying the groundwork for future colonies.
    - First contact with Native Americans: Initial encounters between Europeans and Native Americans involved trade, cultural exchanges, and often conflict. These interactions significantly impacted Indigenous societies, bringing new goods like metal tools and horses, spreading diseases that reduced populations, and shifting control over land and resources.
 
-3. St. Augustine (1565)
+5. **Colonial America (1607–1763)**
+	- **Jamestown** - the first permanent English settlement:
+		- **Established**: Founded in 1607.
+		- **Managed By**: Virginia Company, aiming for economic gains from New World resources.
+		- **Early Struggles**: Food shortages, conflicts with Native Americans, and harsh winters led to the "Starving Time," when some colonists resorted to cannibalism.
+		- **Economic Driver**: Tobacco farming, introduced by John Rolfe, became the backbone of the colony’s economy and survival.
 
-   The Spanish founded St. Augustine in 1565 in what is now Florida. It is the oldest continuously inhabited European-established settlement in North America. St. Augustine served as a key Spanish military and trade outpost, solidifying Spain's presence in the region.
+	- **Thirteen Colonies:**
+		- **Virginia (1607)**
+			- **Established**: Founded in 1607 as the first permanent English settlement.
+			- **Key Settlement**: Jamestown.
+			- **Purpose**: Economic gains from New World resources.
+			- **Governance**: Managed by the Virginia Company.
+			- **Economy**: Tobacco farming introduced by John Rolfe became the colony’s backbone.
+			- **Challenges**: Food shortages, conflicts with Native Americans, and the "Starving Time."
+		- **Massachusetts (1620)**
+			- **Established**: Plymouth founded in 1620 by Pilgrims; Massachusetts Bay Colony in 1630 by Puritans.
+			- **Key Settlements**: Plymouth and Boston.
+			- **Purpose**: Religious freedom and economic opportunities.
+			- **Governance**: Self-rule through the General Court.
+			- **Economy**: Agriculture, shipbuilding, and trade.
+			- **Challenges**: Harsh winters and conflicts like the Pequot War and King Philip’s War.
+		- **New Hampshire (1623)**
+			- **Established**: Fishing and trade settlement founded in Portsmouth.
+			- **Purpose**: Economic expansion and autonomy.
+			- **Governance**: Initially tied to Massachusetts’ governance.
+			- **Economy**: Fishing, trade, and small-scale farming.
+		- **Maryland (1632)**
+			- **Established**: St. Mary’s City founded as a haven for Catholics.
+			- **Purpose**: Religious freedom for Catholics.
+			- **Governance**: Proprietary colony.
+			- **Economy**: Tobacco farming.
+			- **Challenges**: Religious tensions with Protestant settlers.
+		- **Connecticut (1636)**
+			- **Established**: Hartford founded by settlers seeking autonomy.
+			- **Purpose**: Religious and political freedom.
+			- **Governance**: Known for the Fundamental Orders of Connecticut.
+			- **Economy**: Agriculture and trade.
+		- **Rhode Island (1636)**
+			- **Established**: Providence founded by Roger Williams.
+			- **Purpose**: Religious freedom and separation of church and state.
+			- **Governance**: Democratic principles with religious tolerance.
+			- **Economy**: Farming and trade.
+		- **Delaware (1638)**
+			- **Established**: Wilmington founded by the Swedes.
+			- **Purpose**: Economic opportunities and trade.
+			- **Governance**: Controlled by the English from 1664.
+			- **Economy**: Agriculture and fur trade.
+		- **North Carolina (1663)**
+			- **Established**: Part of the Province of Carolina.
+			- **Purpose**: Economic development.
+			- **Governance**: Proprietary colony.
+			- **Economy**: Agriculture (tobacco, rice) and trade.
+		- **South Carolina (1663)**
+			- **Established**: Split from North Carolina in 1712.
+			- **Key Settlement**: Charleston.
+			- **Purpose**: Economic development and trade.
+			- **Governance**: Proprietary colony.
+			- **Economy**: Rice and indigo farming; major port city.
+		- **New York (1664)**
+			- **Established**: Taken from the Dutch and renamed New York.
+			- **Key Settlement**: New York City.
+			- **Purpose**: Trade and cultural expansion.
+			- **Governance**: Royal colony.
+			- **Economy**: Trade hub and agriculture.
+		- **New Jersey (1664)**
+			- **Established**: Acquired from the Dutch.
+			- **Key Settlement**: Trenton.
+			- **Purpose**: Agricultural and trade opportunities.
+			- **Governance**: Proprietary colony.
+			- **Economy**: Farming and commerce.
+		- **Pennsylvania (1681)**
+			- **Established**: Founded by William Penn as a haven for Quakers.
+			- **Key Settlement**: Philadelphia.
+			- **Purpose**: Religious freedom and economic opportunities.
+			- **Governance**: Proprietary colony.
+			- **Economy**: Agriculture, trade, and cultural hub.
+		- **Georgia (1732)**
+			- **Established**: Savannah founded as the last of the Thirteen Colonies.
+			- **Purpose**: Buffer against Spanish Florida and haven for debtors.
+			- **Governance**: Royal colony.
+			- **Economy**: Agriculture (rice, indigo) and trade.
 
-4. Roanoke Colony (1587)
+	- **The Pilgrims (Origins and Settlement of Plymouth):**
+		- **Origins:**
+			- The Pilgrims were Separatist Puritans from England who rejected the Church of England for its similarity to Catholicism.
+			- They fled to the Dutch Republic (Leiden, Netherlands) in 1608, seeking religious freedom.
+		- **Challenges in the Netherlands:**
+			- **While they enjoyed religious liberty, the Pilgrims faced significant issues:**
+				- Economic Hardship: Many worked in low-paying textile jobs and lived in poverty.
+				- Cultural Concerns: Their children began assimilating into Dutch culture, and they feared losing their English identity.
+				- Instability: The looming Thirty Years’ War and the end of a truce between Spain and the Dutch Republic made life in Leiden increasingly uncertain.
+		- **Decision to Migrate to America:**
+			- The Pilgrims sought to establish a self-governed community where they could freely practice their religion, improve their economic prospects, and preserve their culture.
+			- Supported by an English stock company, they agreed to work on the company’s behalf in Virginia in exchange for financing their voyage.
+		- **The Mayflower Voyage (1620):**
+			- The Mayflower departed from Southampton in August 1620 but required repairs in Plymouth, England, before resuming its journey on September 16.
+			- Originally aiming for the Virginia Colony, the ship was blown off course, landing at Cape Cod in November 1620.
+			- On December 21, 1620, the Pilgrims landed at Plymouth Harbor and began establishing their settlement.
+		- **Early Struggles:**
+			- The Pilgrims faced a harsh winter with inadequate shelter, leading to significant loss of life.
+			- By spring 1621, only about half of the original 102 passengers survived.
+		- **Help from Native Americans:**
+			- In spring 1621, a Native American named Samoset introduced the Pilgrims to Squanto, who taught them how to farm, fish, and hunt.
+			- This cooperation allowed the settlement to flourish, and the Pilgrims formed an alliance with the Wampanoag tribe.
+		- **Impact of Plymouth Colony:**
+			- Plymouth became a foundation for later colonial endeavors in Massachusetts, setting a precedent for self-governance with the signing of the Mayflower Compact.
+			- It also shaped the culture of New England and contributed to the ideals of religious freedom and community values in America.
 
-   The British first attempted colonization in 1587 on Roanoke Island. Harsh conditions and lack of supplies led to its failure, and by 1590, the colony was abandoned, earning it the name "The Lost Colony."
+	- **Conflict Between Pennsylvania and Maryland (1730s–1767):**
+		- The conflict between Pennsylvania and Maryland arose in the 1730s due to unclear and overlapping colonial boundaries. Both colonies claimed the same land, leading to disputes and even violent clashes between settlers. The dispute was finally resolved in 1767 with the surveying and establishment of the Mason-Dixon Line, which became the official border between the two colonies and later a symbolic dividing line between the North and the South.
 
-5. Colonial America (1607–1763)
+	- **Spanish Colonies in North America:**
+		The Spanish played a significant role in shaping early North America during the colonial period, establishing settlements and influencing culture in regions that are now part of the United States. They focused on spreading Catholicism, developing trade, and securing territorial claims.
 
-- **Jamestown** - the first permanent English settlement:
-	- **Established**: Founded in 1607.
-	- **Managed By**: Virginia Company, aiming for economic gains from New World resources.
-	- **Early Struggles**: Food shortages, conflicts with Native Americans, and harsh winters led to the "Starving Time," when some colonists resorted to cannibalism.
-	- **Economic Driver**: Tobacco farming, introduced by John Rolfe, became the backbone of the colony’s economy and survival.
+		- **Florida**:
+		Spain established St. Augustine (1565), the first permanent European settlement in North America, as a military and trade outpost. It solidified Spanish control in the southeast.
+		- **Texas**:
+		In the 1700s, Spanish missions and presidios were built to secure the region and counter French expansion. The area became central to Spain's defense strategy in the Americas.
+		- **New Mexico**:
+		Colonization began in 1598, with Santa Fe (1610) becoming a key settlement. Spanish efforts focused on missionary work and trade, though Native American resistance, such as the Pueblo Revolt (1680), posed challenges.
+		- **California**:
+		Colonized in the late 1700s, Spain built missions along the Pacific coast to convert Native Americans and assert territorial control. Settlements like San Diego and Los Angeles originated during this time.
+		- **Dutch Influence in North America:**
+		The Dutch established the colony of New Netherland in the early 17th century, focused on fur trade and centered around present-day New York, New Jersey, and Pennsylvania. Its main port, New Amsterdam (now New York City), became a key hub for trade. The Dutch lost control of the colony to the British after the Second Anglo-Dutch War (1664) and finally in the Third Anglo-Dutch War (1674). Despite this, Dutch cultural and economic practices influenced the region's development.
 
-- **Thirteen Colonies:**
-	- **Virginia (1607)**
-		- **Established**: Founded in 1607 as the first permanent English settlement.
-		- **Key Settlement**: Jamestown.
-		- **Purpose**: Economic gains from New World resources.
-		- **Governance**: Managed by the Virginia Company.
-		- **Economy**: Tobacco farming introduced by John Rolfe became the colony’s backbone.
-		- **Challenges**: Food shortages, conflicts with Native Americans, and the "Starving Time."
-	- **Massachusetts (1620)**
-		- **Established**: Plymouth founded in 1620 by Pilgrims; Massachusetts Bay Colony in 1630 by Puritans.
-		- **Key Settlements**: Plymouth and Boston.
-		- **Purpose**: Religious freedom and economic opportunities.
-		- **Governance**: Self-rule through the General Court.
-		- **Economy**: Agriculture, shipbuilding, and trade.
-		- **Challenges**: Harsh winters and conflicts like the Pequot War and King Philip’s War.
-	- **New Hampshire (1623)**
-		- **Established**: Fishing and trade settlement founded in Portsmouth.
-		- **Purpose**: Economic expansion and autonomy.
-		- **Governance**: Initially tied to Massachusetts’ governance.
-		- **Economy**: Fishing, trade, and small-scale farming.
-	- **Maryland (1632)**
-		- **Established**: St. Mary’s City founded as a haven for Catholics.
-		- **Purpose**: Religious freedom for Catholics.
-		- **Governance**: Proprietary colony.
-		- **Economy**: Tobacco farming.
-		- **Challenges**: Religious tensions with Protestant settlers.
-	- **Connecticut (1636)**
-		- **Established**: Hartford founded by settlers seeking autonomy.
-		- **Purpose**: Religious and political freedom.
-		- **Governance**: Known for the Fundamental Orders of Connecticut.
-		- **Economy**: Agriculture and trade.
-	- **Rhode Island (1636)**
-		- **Established**: Providence founded by Roger Williams.
-		- **Purpose**: Religious freedom and separation of church and state.
-		- **Governance**: Democratic principles with religious tolerance.
-		- **Economy**: Farming and trade.
-	- **Delaware (1638)**
-		- **Established**: Wilmington founded by the Swedes.
-		- **Purpose**: Economic opportunities and trade.
-		- **Governance**: Controlled by the English from 1664.
-		- **Economy**: Agriculture and fur trade.
-	- **North Carolina (1663)**
-		- **Established**: Part of the Province of Carolina.
-		- **Purpose**: Economic development.
-		- **Governance**: Proprietary colony.
-		- **Economy**: Agriculture (tobacco, rice) and trade.
-	- **South Carolina (1663)**
-		- **Established**: Split from North Carolina in 1712.
-		- **Key Settlement**: Charleston.
-		- **Purpose**: Economic development and trade.
-		- **Governance**: Proprietary colony.
-		- **Economy**: Rice and indigo farming; major port city.
-	- **New York (1664)**
-		- **Established**: Taken from the Dutch and renamed New York.
-		- **Key Settlement**: New York City.
-		- **Purpose**: Trade and cultural expansion.
-		- **Governance**: Royal colony.
-		- **Economy**: Trade hub and agriculture.
-	- **New Jersey (1664)**
-		- **Established**: Acquired from the Dutch.
-		- **Key Settlement**: Trenton.
-		- **Purpose**: Agricultural and trade opportunities.
-		- **Governance**: Proprietary colony.
-		- **Economy**: Farming and commerce.
-	- **Pennsylvania (1681)**
-		- **Established**: Founded by William Penn as a haven for Quakers.
-		- **Key Settlement**: Philadelphia.
-		- **Purpose**: Religious freedom and economic opportunities.
-		- **Governance**: Proprietary colony.
-		- **Economy**: Agriculture, trade, and cultural hub.
-	- **Georgia (1732)**
-		- **Established**: Savannah founded as the last of the Thirteen Colonies.
-		- **Purpose**: Buffer against Spanish Florida and haven for debtors.
-		- **Governance**: Royal colony.
-		- **Economy**: Agriculture (rice, indigo) and trade.
+	- **French and Indian War (1754–1763):**
+		- **Cause**: Competition between Britain and France over territory and trade in North America, particularly in the Ohio River Valley.
+		- **Sides Involved**: Britain and France, with Native American allies on both sides.
+		- **Objective**: Britain aimed to expand westward into French-controlled lands.
+		- **Major Battles**: Fort Necessity, Quebec, and Montreal.
+		- **Outcome**: Treaty of Paris (1763) ended the war, granting Britain control of Canada and lands east of the Mississippi River.
 
-- **The Pilgrims (Origins and Settlement of Plymouth):**
-	- **Origins:**
-		- The Pilgrims were Separatist Puritans from England who rejected the Church of England for its similarity to Catholicism.
-		- They fled to the Dutch Republic (Leiden, Netherlands) in 1608, seeking religious freedom.
-	- **Challenges in the Netherlands:**
-		- **While they enjoyed religious liberty, the Pilgrims faced significant issues:**
-			- Economic Hardship: Many worked in low-paying textile jobs and lived in poverty.
-			- Cultural Concerns: Their children began assimilating into Dutch culture, and they feared losing their English identity.
-			- Instability: The looming Thirty Years’ War and the end of a truce between Spain and the Dutch Republic made life in Leiden increasingly uncertain.
-	- **Decision to Migrate to America:**
-		- The Pilgrims sought to establish a self-governed community where they could freely practice their religion, improve their economic prospects, and preserve their culture.
-		- Supported by an English stock company, they agreed to work on the company’s behalf in Virginia in exchange for financing their voyage.
-	- **The Mayflower Voyage (1620):**
-		- The Mayflower departed from Southampton in August 1620 but required repairs in Plymouth, England, before resuming its journey on September 16.
-		- Originally aiming for the Virginia Colony, the ship was blown off course, landing at Cape Cod in November 1620.
-		- On December 21, 1620, the Pilgrims landed at Plymouth Harbor and began establishing their settlement.
-	- **Early Struggles:**
-		- The Pilgrims faced a harsh winter with inadequate shelter, leading to significant loss of life.
-		- By spring 1621, only about half of the original 102 passengers survived.
-	- **Help from Native Americans:**
-		- In spring 1621, a Native American named Samoset introduced the Pilgrims to Squanto, who taught them how to farm, fish, and hunt.
-		- This cooperation allowed the settlement to flourish, and the Pilgrims formed an alliance with the Wampanoag tribe.
-	- **Impact of Plymouth Colony:**
-		- Plymouth became a foundation for later colonial endeavors in Massachusetts, setting a precedent for self-governance with the signing of the Mayflower Compact.
-		- It also shaped the culture of New England and contributed to the ideals of religious freedom and community values in America.
+	- **Seven Years' War (1756–1763):**
+		- **Cause**: Conflicts among European powers over colonial territories and balance of power.
+		- **Sides Involved**: Britain, France, Spain, and Prussia.
+		- **Objective**: Control over colonial territories and European dominance.
+		- **Major Battles**: Fought across Europe, the Americas, Africa, and Asia.
+		- **Outcome**: Shifted global power, solidified Britain's dominance, and left France weakened. This war also left Britain with significant debts, leading to increased taxation on its North American colonies, which caused dissatisfaction and ultimately the American Revolution.
 
-- **Conflict Between Pennsylvania and Maryland (1730s–1767):**
-	- The conflict between Pennsylvania and Maryland arose in the 1730s due to unclear and overlapping colonial boundaries. Both colonies claimed the same land, leading to disputes and even violent clashes between settlers. The dispute was finally resolved in 1767 with the surveying and establishment of the Mason-Dixon Line, which became the official border between the two colonies and later a symbolic dividing line between the North and the South.
-
-- **Spanish Colonies in North America:**
-	The Spanish played a significant role in shaping early North America during the colonial period, establishing settlements and influencing culture in regions that are now part of the United States. They focused on spreading Catholicism, developing trade, and securing territorial claims.
-
-	- **Florida**:
-	Spain established St. Augustine (1565), the first permanent European settlement in North America, as a military and trade outpost. It solidified Spanish control in the southeast.
-	- **Texas**:
-	In the 1700s, Spanish missions and presidios were built to secure the region and counter French expansion. The area became central to Spain's defense strategy in the Americas.
-	- **New Mexico**:
-	Colonization began in 1598, with Santa Fe (1610) becoming a key settlement. Spanish efforts focused on missionary work and trade, though Native American resistance, such as the Pueblo Revolt (1680), posed challenges.
-	- **California**:
-	Colonized in the late 1700s, Spain built missions along the Pacific coast to convert Native Americans and assert territorial control. Settlements like San Diego and Los Angeles originated during this time.
-	- **Dutch Influence in North America:**
-	The Dutch established the colony of New Netherland in the early 17th century, focused on fur trade and centered around present-day New York, New Jersey, and Pennsylvania. Its main port, New Amsterdam (now New York City), became a key hub for trade. The Dutch lost control of the colony to the British after the Second Anglo-Dutch War (1664) and finally in the Third Anglo-Dutch War (1674). Despite this, Dutch cultural and economic practices influenced the region's development.
-
-- **French and Indian War (1754–1763):**
-  - **Cause**: Competition between Britain and France over territory and trade in North America, particularly in the Ohio River Valley.
-  - **Sides Involved**: Britain and France, with Native American allies on both sides.
-  - **Objective**: Britain aimed to expand westward into French-controlled lands.
-  - **Major Battles**: Fort Necessity, Quebec, and Montreal.
-  - **Outcome**: Treaty of Paris (1763) ended the war, granting Britain control of Canada and lands east of the Mississippi River.
-
-- **Seven Years' War (1756–1763):**
-  - **Cause**: Conflicts among European powers over colonial territories and balance of power.
-  - **Sides Involved**: Britain, France, Spain, and Prussia.
-  - **Objective**: Control over colonial territories and European dominance.
-  - **Major Battles**: Fought across Europe, the Americas, Africa, and Asia.
-  - **Outcome**: Shifted global power, solidified Britain's dominance, and left France weakened. This war also left Britain with significant debts, leading to increased taxation on its North American colonies, which caused dissatisfaction and ultimately the American Revolution.
-
-6. Road to Independence (1763–1776)
+6. **Road to Independence (1763–1776)**
 	- **Effects of the French and Indian War (1754–1763):**
 		- **Debt and Taxation**: The war left Britain with significant debt. To recover, Britain imposed taxes on the colonies, leading to resentment.
 		- **Proclamation of 1763**: Restricted colonial expansion westward to prevent conflicts with Native Americans, angering settlers who wanted to expand.
@@ -514,11 +504,11 @@
 ADDITIONALLY:
 20. **U.S. Health System:**
 	- The U.S. healthcare system is largely private, with government programs like **Medicare** (for seniors) and **Medicaid** (for low-income individuals).
-	- The Affordable Care Act (2010) expanded access to health insurance but sparked debates over healthcare costs and universal coverage.
+	- The Affordable Care Act (2010) expanded access to health insurance but caused debates over healthcare costs and universal coverage.
 21. **U.S. Educational System:**
 	- Education is primarily managed at the state level, leading to variations in quality and resources.
 	- Public schools dominate, but private and charter schools offer alternatives.
-	- College education is highly regarded but often criticized for high tuition costs and student debt.2
+	- College education is highly regarded but often criticized for high tuition costs and student debt.
 22. **U.S. Punishment System:**
 	- The U.S. has one of the highest incarceration rates globally, with debates over prison reform and racial disparities.
 	- Punishments include fines, probation, and imprisonment, with the death penalty legal in some states.
@@ -526,18 +516,41 @@ ADDITIONALLY:
 
 
 
-Additionally:
-
-- US health system in comperison with UK and your country
-- US educational system 
-- map of conteporary states and their capitals
 
 
-Для любой войны мне нужно:
 
-1) Стороны
-2) Причины
-3) Точка начала войны
-4) Краткое описание хода войны, кто что терял/получал, как воевали стороны
-5) событие, которое закончило войну
-6) итоги войны и их влеяение на стороны.
+MMMOOOORE:
+
+1. Canada and Australia: Basic information about their history, government, and geography OK
+2. More imporant Events
+3. Presidents and their deeds
+4. US Government: Structure, functions, and political processes. OK
+5. Political parties OK, religions
+6. States map with their capitals
+7. Culture
+
+US Government: Structure, Functions, and Political Processes
+1.	Structure
+	- Legislative Branch (Congress): Bicameral—Senate (100 members) and House of Representatives (435 members). Makes laws, approves budgets, and oversees the executive branch.
+	- Executive Branch: Led by the President, includes the Vice President and Cabinet. Enforces laws, oversees federal agencies, conducts foreign policy, and commands the military.
+	- Judicial Branch: Headed by the Supreme Court (9 justices). Interprets laws, ensures constitutionality, and resolves disputes.
+2.	Functions
+	- Checks and Balances: Each branch has powers to limit the others, ensuring no single branch dominates.
+	- Federalism: Division of powers between federal and state governments. States handle local issues, while the federal government oversees national matters.
+	- Elections: Citizens elect representatives (e.g., President, Congress members). Presidential elections use the Electoral College system.
+3.	Political Processes
+	- Political Parties: Dominated by two parties—Democrats and Republicans. They shape policies and influence elections.
+	- Lobbying and Interest Groups: Organizations advocate for specific policies and influence legislators.
+	- Legislation: Bills proposed in Congress must pass both chambers and receive the President's signature to become law.
+	- Judicial Review: Courts can nullify laws conflicting with the Constitution.
+
+
+**Canada**:  
+- **History**: Originally colonized by the French and British. Became a dominion in 1867, meaning it was mostly self-governing but still connected to Britain. Fully independent since 1982 (Canada Act).  
+- **Government**: Constitutional monarchy, parliamentary democracy.  
+- **Geography**: Second-largest country; includes the Rocky Mountains, Great Lakes, and vast forests.  
+
+**Australia**:  
+- **History**: British colony established in 1788. Became a federation in 1901, gaining self-governance but remaining tied to Britain. Fully independent since 1986 (Australia Act).  
+- **Government**: Constitutional monarchy, parliamentary democracy.  
+- **Geography**: Island-continent with deserts, the Great Barrier Reef, and unique wildlife.  
