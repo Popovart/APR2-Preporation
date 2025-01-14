@@ -521,13 +521,31 @@ ADDITIONALLY:
 
 MMMOOOORE:
 
-1. Canada and Australia: Basic information about their history, government, and geography OK
-2. More imporant Events
-3. Presidents and their deeds
+1. Canada and Australia: Basic information about their history, government, and geography. OK
 4. US Government: Structure, functions, and political processes. OK
-5. Political parties OK, religions
-6. States map with their capitals
-7. Culture
+5. Political parties. OK
+6. States map with their capitals. OK
+11. провинции канады OK
+13. посмотреть где реги и горы находятся на карте OK
+14. какая гора самая высокая OK
+16. population of America 335m OK
+
+
+
+///
+10. 13 колоний 
+9. Religions. 
+12. Amendments 
+
+///
+17. Американско-Мексиканская война OK
+19. роли индейцев в расширении США, что с ними было (в целом РАСШИРЕНИЕ США параграф) OK
+16. School OK
+1. famous persons OK
+15. борьба за не зависимость OK
+2. More imporant Events. OK
+18. покупка луизианы OK
+
 
 US Government: Structure, Functions, and Political Processes
 1.	Structure
